@@ -32,8 +32,6 @@ body {
     grid-gap: 15px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-
-    background: green;
 }
 
 .content__item{
